@@ -25,3 +25,6 @@ shared_queue = Queue()          #container for shared data
 input_list = [3, 10, 5, 7]
 
 queue_condition = threading.Condition()
+
+
+
